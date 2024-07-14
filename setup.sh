@@ -47,5 +47,13 @@ echo "[*] Downloading local bin scripts..."
 fetch "$BASE_URL/.local/bin/free" -o $HOME/.local/bin/free 
 fetch "$BASE_URL/.local/bin/color-parser" -o $HOME/.local/bin/color-parser 
 
+# Fetch and place wallpaper 
+echo "[*] Downloading wallpaper..." 
+fetch "$BASE_URL/.wallpaper.jpg" -o $HOME/.wallpaper.jpg
+
+# Fetch and place xresources
+echo "[*] Downloading xresources..." 
+fetch "$BASE_URL/.Xresources" -o $HOME/.Xresources
+
 echo "[*] All files downloaded and placed successfully!" 
 echo "[*] Configuration complete. Enjoy your elite setup!" 
