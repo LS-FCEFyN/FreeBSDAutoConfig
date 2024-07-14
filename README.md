@@ -6,15 +6,15 @@ This repository contains configuration files and a script to set up a FreeBSD en
 
 
 ### Wuncon Siji Fonts 
-We use the Wuncon Siji fonts for icons. You can find and install them from [this repository](https://github.com/stark/siji). 
+We use the Wuncon Siji fonts for icons. You can find them in [this repository](https://github.com/stark/siji). 
 
 
 ### Font-Logos 
-For additional icons, we use font-logos. You can find and install them from [this repository](https://github.com/lukas-w/font-logos). 
+For additional icons, we use font-logos. You can find them in [this repository](https://github.com/lukas-w/font-logos). 
 
 
 ## Wallpaper 
-Our wallpaper is by the Pixiv artist スカイ. You can view and download it [here](https://www.pixiv.net/en/artworks/103416142). 
+Our wallpaper is by the Pixiv artist スカイ. You can view it [here](https://www.pixiv.net/en/artworks/103416142). 
 
 
 ## Required Programs 
@@ -33,13 +33,7 @@ Run the following in your freshly installed session
 
 ```fetch https://raw.githubusercontent.com/ls-fcefyn/FreeBSDAutoConfig/master -o - | sh ```
 
-
-## License 
-
-This project is licensed under the MIT License. See the LICENSE file for details. 
-
-
 ## Acknowledgements 
 
 - Fonts by [stark](https://github.com/stark/siji) and [lukas-w](https://github.com/lukas-w/font-logos). 
-- Wallpaper by [スカイ](https://www.pixiv.net/en/users/20607339).
+- Wallpaper by [スカイ](https://www.pixiv.net/en/users/1017056).
