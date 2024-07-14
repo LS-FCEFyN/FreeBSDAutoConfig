@@ -35,5 +35,5 @@ Run the following in your freshly installed session
 
 ## Acknowledgements 
 
-- Fonts by [stark](https://github.com/stark/siji) and [lukas-w](https://github.com/lukas-w/font-logos). 
+- Fonts by [stark](https://github.com/stark/) and [lukas-w](https://github.com/lukas-w/). 
 - Wallpaper by [スカイ](https://www.pixiv.net/en/users/1017056).
