@@ -1,5 +1,5 @@
 #!/bin/sh 
-# Elite Haxor Script to Auto-Configure FreeBSD 
+# Elite Haxor Script to rice FreeBSD 
 # Fetches config files from GitHub and sets up the system 
 
 # Define base URL 
